@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "54e90422ed6f6311",
+    "type": "split",
+    "children": [
+      {
+        "id": "0164e4afe3f3bcac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a591a88a7b6aedb8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "507dfedebde263f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbbec5019515fe26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383097876a47683e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5cc2d92c7312b7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "214b2adc02ea2e13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "c876e7b2dccea34b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c4a9432a6447fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce5c1706af39136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8889e9972bbe0ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dd7551effe4854c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddcb8b92e9c36f43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a591a88a7b6aedb8",
+  "lastOpenFiles": [
+    "(PROG) Front-End/JavaScript/JavaScript - Orientação/Indice JavaScript - Teoria.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.8 - O que são estruturas de controle.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.9 - O que são estruturas de repetição.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 3.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.10 - Identação.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.14 - Comentários no JavaScript.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.13 - Um pouco mais sobre declaração de variáveis.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.12 - Pulando uma execução do loop - Continue.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.11 - Forçando a saída de um loop - Break.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.9 - Estrutura Repetição/3.9.1 - Estrutura de Repetição - While.md"
+  ]
+}

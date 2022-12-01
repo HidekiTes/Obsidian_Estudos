@@ -1,0 +1,5 @@
+[[6.1 - Estrutura If]]
+[[6.2 - Estrutura Else]]
+[[6.3 - If Aninhado]]
+[[6.4 - Else If]]
+[[6.5 - Switch]]

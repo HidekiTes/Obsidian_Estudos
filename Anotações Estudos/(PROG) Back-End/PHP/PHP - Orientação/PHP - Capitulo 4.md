@@ -1,0 +1,8 @@
+[[4.1 - Sobre as Variaveis]]
+[[4.2 - Variáveis de Variáveis]]
+[[4.3 -  Variáveis por Referência]]
+[[4.4 - Escopo]]
+[[4.5 - Variável Local]]
+[[4.6 - Variável Global]]
+[[4.7 - Variável Estática]]
+[[4.8 - Parâmetros de Função]]
