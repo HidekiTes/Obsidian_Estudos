@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "bb4bd613ce94b7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a3e1f4e0b4ad08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e3d5457fecaaf2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6176fb5b715d1e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd7dd8d17bc190c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ff579ec1d4fa0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53524a2042b9ed90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "551b7fa62e6f8de4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf38b8c0fdaa558f",
+    "type": "split",
+    "children": [
+      {
+        "id": "07cf707cc21cbd83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4abd364081f1c334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "802057e2d78cb60f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c9c42d5a559d617",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d243802c6092ec48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e3d5457fecaaf2d",
+  "lastOpenFiles": [
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/PHP - Capitulo 14.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.1 - Variáveis Globais do PHP.md",
+    "Anotações Estudos/Guia de Estudos.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/Indice PHP.md",
+    "Anotações Estudos/(PROG) Front-End/Programação Web/Programação Web - Orientação/Indice Programação Web - Teoria.md",
+    "Anotações Estudos/README.md",
+    "Anotações Estudos/Pasted image 20221201102754.png"
+  ]
+}
