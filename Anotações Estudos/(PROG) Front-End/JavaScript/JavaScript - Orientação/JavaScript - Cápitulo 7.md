@@ -1,0 +1,7 @@
+[[7.1 - O que é Bug e Debug]]
+[[7.2 - Strict Mode]]
+[[7.3 - Tratamento de input por função]]
+[[7.4 - Exceptions]]
+[[7.5 - Try e catch]]
+[[7.6 - Finally]]
+[[7.7 - Assertions]]

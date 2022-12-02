@@ -1,0 +1,7 @@
+[[4.1 - O que são Funções]]
+[[4.2 - Definindo uma Função]]
+[[4.3 - Escopo de uma Função]]
+[[4.4 - Arrow Functions]]
+[[4.5 - Argumentos Opcionais]]
+[[4.6 - Closure]]
+[[4.7 - Recursion]]
