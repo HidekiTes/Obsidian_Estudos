@@ -11,8 +11,12 @@
             "id": "6e3d5457fecaaf2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/Indice PHP - Teoria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5
   },
   "right": {
     "id": "cf38b8c0fdaa558f",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/Indice PHP - Teoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/Indice PHP - Teoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/Indice PHP - Teoria.md"
+              }
             }
           }
         ]
@@ -131,11 +139,14 @@
   "active": "6e3d5457fecaaf2d",
   "lastOpenFiles": [
     "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/PHP - Capitulo 14.md",
-    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.1 - Variáveis Globais do PHP.md",
-    "Anotações Estudos/Guia de Estudos.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Orientação/PHP - Capitulo 15.md",
     "Anotações Estudos/(PROG) Back-End/PHP/Indice PHP.md",
-    "Anotações Estudos/(PROG) Front-End/Programação Web/Programação Web - Orientação/Indice Programação Web - Teoria.md",
-    "Anotações Estudos/README.md",
-    "Anotações Estudos/Pasted image 20221201102754.png"
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.7 - Processamento de Formulários Teoria.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.8 - Teste de Formulários com GET.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.6 - Variáveis Globais do PHP.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.4 - Variáveis Globais do PHP.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.3 - Métodos HTTP.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.5 - Explorando $_ SERVER.md",
+    "Anotações Estudos/(PROG) Back-End/PHP/PHP - Conteúdo/Teoria/14 - PHP e a Web/14.1 - Introdução ao HTTP.md"
   ]
 }
