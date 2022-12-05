@@ -8,36 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acff9bc59b3fb50e",
+            "id": "b4d78267d732da86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 9.md",
+                "file": "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/09 - Programação Assincrona/9.2 - Callbacks.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9cb4c8b835f94d40",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "dc7ddd0e02a3464e",
+            "id": "17681061f1df2dfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anotações Estudos/Guia de Estudos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 335.5
   },
   "right": {
     "id": "cf38b8c0fdaa558f",
@@ -103,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 9.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acff9bc59b3fb50e",
+  "active": "17681061f1df2dfc",
   "lastOpenFiles": [
-    "12.11.1 - Instalando o Express.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 12.md",
-    "Indice JS.md",
-    "Anotações Estudos/Guia de Estudos.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/Indice JavaScript - Teoria.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Exercicios/JS - Exercicio 45.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Exercicios/JS - Exercicio 1.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/Indice JavaScript - Exercicios.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Exercicios/JS - Exercicio 44.md",
-    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Exercicios/JS - Exercicio 43.md"
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 10.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/10 - JavaScript no Navegador/10.5 - Encontrando Elementos.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/Indice JS.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/10 - JavaScript no Navegador/10.7 - Alterando a DOM.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 9.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/09 - Programação Assincrona/9.3 - Promises.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/11 - Eventos com JavaScript/11.10 - Debounce.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/11 - Eventos com JavaScript/11.9 - Evento de Carregamento.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/11 - Eventos com JavaScript/11.8 - Evento por foco.md",
+    "Anotações Estudos/(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/11 - Eventos com JavaScript/11.7 - Eventos de tecla (key event).md"
   ]
 }

@@ -1,4 +1,6 @@
 [[7.1 - O que é Bug e Debug]]
+[[7.1.1 - Método de Debug - Console.log]]
+[[7.1.2 - Método de Debug - Debugger]]
 [[7.2 - Strict Mode]]
 [[7.3 - Tratamento de input por função]]
 [[7.4 - Exceptions]]

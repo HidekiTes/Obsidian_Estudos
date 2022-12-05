@@ -4,6 +4,7 @@
 [[12.4 - O npm]]
 [[12.5 - Iniciando um Projeto]]
 [[12.6 - Módulo de File System]]
+[[12.6.1 - File System - Escrevendo]]
 [[12.7 - Módulo HTTP]]
 [[12.8 - O que é uma API]]
 [[12.9 - O que é REST e RESTful]]
