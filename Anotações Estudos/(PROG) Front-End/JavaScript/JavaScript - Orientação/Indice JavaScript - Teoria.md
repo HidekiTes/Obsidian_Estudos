@@ -31,10 +31,10 @@
 [[JavaScript - Cápitulo 10]]
 
 #### Capitulo 11 - Eventos com JavaScript
-[[JavaScript - Cápitulo 1]]
+[[JavaScript - Cápitulo 11]]
 
 #### Capitulo 12 - Node.JS
-[[JavaScript - Cápitulo 1]]
+[[JavaScript - Cápitulo 12]]
 
 #### Capitulo 13 - JavaScript Moderno
-[[JavaScript - Cápitulo 1]]
+[[JavaScript - Cápitulo 13]]
