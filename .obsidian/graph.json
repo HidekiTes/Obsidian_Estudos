@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16343870
       }
+    },
+    {
+      "query": "path:\"Anotações Estudos/(PROG) Outros/Docker\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.03780849057453771,
+  "scale": 0.05300685580977876,
   "close": true
 }
