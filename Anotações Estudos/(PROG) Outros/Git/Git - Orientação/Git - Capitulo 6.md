@@ -1,0 +1,6 @@
+[[GIT - 6.1 - Limpando arquivos untracked]]
+[[GIT - 6.2 - Otimizando o repositório]]
+[[GIT - 6.3 - Chegando integridade de arquivos]]
+[[GIT - 6.4 - Reflog]]
+[[GIT - 6.5 - Recuperando arquivos com reflog]]
+[[GIT - 6.6 - Transformando o repo para arquivo]]

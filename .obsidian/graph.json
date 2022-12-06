@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:\"Anotações Estudos/(PROG) Outros/Git\"",
+      "color": {
+        "a": 1,
+        "rgb": 15105049
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.08317427835927557,
+  "scale": 0.03378120536697909,
   "close": true
 }

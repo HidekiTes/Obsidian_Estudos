@@ -17,7 +17,10 @@ _______________________________________________________________________________
 
 UX Design - Conceitos de Criação de Interfaces
 
-#### Docker
+#### Git - Conceitos de Versionamento
+[[Indice Git]]
+
+#### Docker - Conceitos de Virtualização (VM)
 [[Indice Docker]]
 _____
 
