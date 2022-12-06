@@ -1,0 +1,3 @@
+* Uma forma prática de persistir dados em aplicações e não depender de containers para isso;
+* Todo dado criado por um container é salvo nele, quando o container é removido perdemos os dados;
+* Então precisamos dos volumes para gerenciar os dados e também conseguir fazer backups de forma mais simples;

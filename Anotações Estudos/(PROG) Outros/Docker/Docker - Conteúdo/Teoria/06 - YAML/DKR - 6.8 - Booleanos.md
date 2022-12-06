@@ -1,0 +1,3 @@
+* Podemos inserir booleanos em YAML da seguinte forma:
+* True e On = verdadeiro;
+* False e Off = falso;

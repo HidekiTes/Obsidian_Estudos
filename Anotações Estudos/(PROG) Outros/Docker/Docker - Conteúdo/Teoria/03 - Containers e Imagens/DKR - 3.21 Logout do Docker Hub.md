@@ -1,0 +1,2 @@
+* Para remover a conexão entre nossa máquina e o Docker Hub, vamos utilizar o comando docker logout;
+* Agora não podemos mais enviar imagens, pois não estamos autenticados;

@@ -1,0 +1,3 @@
+* Podemos também verificar como o Kubernetes está configurado;
+* O comando é: kubectl config view
+* No nosso caso: vamos receber informações importantes baseadas no Minikube, que é por onde o Kubernetes está sendo executado;

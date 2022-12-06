@@ -1,0 +1,4 @@
+* O arquivo .yaml geralmente possui chaves e valores;
+* Que é de onde vamos retirar as configurações do nosso sistema;
+* Para definir uma chave apenas inserimos o nome dela, em seguida colocamos dois pontos e depois o valor;
+* Vamos criar nosso primeiro arquivo YAML

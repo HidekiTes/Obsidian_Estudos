@@ -1,0 +1,2 @@
+* Podemos gerar o build durante o Compose também;
+* Isso vai eliminar o processo de gerar o build da imagem a cada atualização;

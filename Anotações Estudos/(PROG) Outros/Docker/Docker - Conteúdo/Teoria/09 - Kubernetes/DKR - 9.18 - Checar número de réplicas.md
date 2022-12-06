@@ -1,0 +1,3 @@
+* Além do get pods e da Dashboard, temos mais um comando para checar réplicas;
+* Que é o: kubectl get rs
+* Desta maneira temos os status das réplicas dos projetos;

@@ -1,0 +1,11 @@
+[[DKR - 6.1 - O que é YAML]]
+[[DKR - 6.2 - Vamos criar nosso arquivo YAML]]
+[[DKR - 6.3 - Espaçamento e indentação]]
+[[DKR - 6.4 - Comentários]]
+[[DKR - 6.5 - Dados numéricos]]
+[[DKR - 6.6 - Strings]]
+[[DKR - 6.7 - Dados nulos]]
+[[DKR - 6.8 - Booleanos]]
+[[DKR - 6.9 - Arrays]]
+[[DKR - 6.10 - Dicionários]]
+

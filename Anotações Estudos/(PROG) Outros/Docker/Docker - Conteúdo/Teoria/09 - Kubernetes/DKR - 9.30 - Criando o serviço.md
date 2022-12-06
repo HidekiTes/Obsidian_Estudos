@@ -1,0 +1,3 @@
+* Agora vamos criar o serviço em declarativo;
+* Para isso vamos criar um arquivo para realizar o Service(kind);
+* O arquivo será semelhante ao de Deployment, porém tem uma responsabilidade diferente;

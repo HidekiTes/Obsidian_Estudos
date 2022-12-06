@@ -1,0 +1,2 @@
+* Podemos parar o Compose que roda em background com: docker compose down;
+* Desta maneira o serviço para e temos os containers adicionados no docker ps -a;

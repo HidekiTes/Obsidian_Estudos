@@ -1,0 +1,4 @@
+- Podemos fazer com que um serviço não receba mais ‘ordens’ do Manager;
+- Para isso vamos utilizar o comando: docker node update--availability drain
+- O status de drain, é o que não recebe tasks;
+- Podemos voltar para active, e ele volta ao normal;
