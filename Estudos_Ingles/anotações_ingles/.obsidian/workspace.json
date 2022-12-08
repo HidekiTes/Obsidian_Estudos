@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "bb4bd613ce94b7eb",
+    "id": "7fb98f17e4fc424e",
     "type": "split",
     "children": [
       {
-        "id": "a1a3e1f4e0b4ad08",
+        "id": "79a250b163ec20cd",
         "type": "tabs",
         "children": [
           {
-            "id": "17681061f1df2dfc",
+            "id": "903aad17e3b28c71",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Indice.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6176fb5b715d1e1c",
+    "id": "d9070e9ec4a12ebb",
     "type": "split",
     "children": [
       {
-        "id": "1dd7dd8d17bc190c",
+        "id": "6c8d1bb748edebfa",
         "type": "tabs",
         "children": [
           {
-            "id": "04ff579ec1d4fa0a",
+            "id": "9ef10eb8562ad225",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "53524a2042b9ed90",
+            "id": "a7593fcad82fa97d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "551b7fa62e6f8de4",
+            "id": "74c89a72935e4de3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "cf38b8c0fdaa558f",
+    "id": "fcf99ddb2f563ff7",
     "type": "split",
     "children": [
       {
-        "id": "07cf707cc21cbd83",
+        "id": "ecc3c9a854335561",
         "type": "tabs",
         "children": [
           {
-            "id": "4abd364081f1c334",
+            "id": "ef9da95bc85eccba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +98,19 @@
             }
           },
           {
-            "id": "802057e2d78cb60f",
+            "id": "28b517937aeb6cd8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0c9c42d5a559d617",
+            "id": "13a2a604d50335ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +121,13 @@
             }
           },
           {
-            "id": "d243802c6092ec48",
+            "id": "80a19e2bbeeee127",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Indice.md"
+              }
             }
           }
         ]
@@ -128,17 +137,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17681061f1df2dfc",
-  "lastOpenFiles": [
-    "Anotações Estudos/(PROG) Outros/Git/Git - Orientação/Git - Capitulo 6.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/09 - GitHub Pages/GIT - 9.1 - A importância do commit.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/08 - Markdown/GIT - 8.1 - O que é Markdown.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/07 - GitHub/GIT - 7.1 - Criando repositório.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/06 - Administração do Repositorio/GIT - 6.1 - Limpando arquivos untracked.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/05 - Análises e Inspeção/GIT - 5.1 - Exibindo informações.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/04 - Compartilhamento e Atualização/GIT - 4.1 - Encontrando branches.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Orientação/Indice Git - Teoria.md",
-    "Anotações Estudos/(PROG) Outros/Git/Git - Conteudo/Teoria/03 - Branches/GIT - 3.1 - O que é um branch.md",
-    "Anotações Estudos/(PROG) Outros/Git/Indice Git.md"
-  ]
+  "active": "903aad17e3b28c71",
+  "lastOpenFiles": []
 }
