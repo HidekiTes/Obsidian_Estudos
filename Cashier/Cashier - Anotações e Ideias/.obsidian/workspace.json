@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "5ee4af85924aae79",
+    "type": "split",
+    "children": [
+      {
+        "id": "596558537152fb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25e955ccfad3eed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cashier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7c1c057ef2a8993",
+    "type": "split",
+    "children": [
+      {
+        "id": "5feadd56b1f3018d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4581f0fe10fc5382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb96ac7f4582e171",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcf41887279d3af0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c33317a5bcc2ada1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7869e05b34b5aa91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512ddcb7c1b13bf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cashier.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f408a3dae1e43e61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cashier.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a4e64d52ea192c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "749f2dd41043efb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cashier.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25e955ccfad3eed1",
+  "lastOpenFiles": [
+    "Ideia 1 - Gerenciamento de Dinheiro por Cartão.md",
+    "Cashier.md",
+    "Ideia 3 - Gerenciamento de Dinheiro por Tipo - Conta Digital, Notas, Moedas.md",
+    "Ideia 3 - Gerenciamento de Dinheiro por Tipo (Moeda/Nota).md",
+    "Ideia.md"
+  ]
+}
