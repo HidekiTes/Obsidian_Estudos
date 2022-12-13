@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cashier.md",
+                "file": "Identidade Visual/IV - Cores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cashier.md",
+                "file": "Identidade Visual/IV - Cores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cashier.md",
+                "file": "Identidade Visual/IV - Cores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cashier.md"
+                "file": "Identidade Visual/IV - Cores.md"
               }
             }
           }
@@ -139,10 +139,15 @@
   },
   "active": "25e955ccfad3eed1",
   "lastOpenFiles": [
-    "Ideia 1 - Gerenciamento de Dinheiro por Cartão.md",
+    "Ideias/Ideia 1 - Gerenciamento de Dinheiro por Cartão.md",
     "Cashier.md",
-    "Ideia 3 - Gerenciamento de Dinheiro por Tipo - Conta Digital, Notas, Moedas.md",
-    "Ideia 3 - Gerenciamento de Dinheiro por Tipo (Moeda/Nota).md",
-    "Ideia.md"
+    "Ideia.md",
+    "Identidade Visual/IV - Cores.md",
+    "Identidade Visual/IV - Estrutura e Wireframe.md",
+    "Identidade Visual/IV - Font-Family.md",
+    "Ideias/Ideia 11 - Adição de Cálculo de Rendimento CDI.md",
+    "Ideias/Ideia 10 - Adicionar função de Dia do Pagamento.md",
+    "Ideias/Ideia 9 - Apresentação de Gráficos.md",
+    "Ideias/Ideia 8 - Adição de Histórico para movimentações com adição de tags, entrada e saída de dinheiro, data, motivo e outros.md"
   ]
 }
