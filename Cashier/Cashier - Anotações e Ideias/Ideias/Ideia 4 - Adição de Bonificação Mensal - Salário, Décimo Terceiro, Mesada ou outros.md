@@ -1,0 +1,1 @@
+Uma ideia interessante que pode ser adicionada no aplicativo é a função de adicionar valores fixos que sempre acabam entrando com frequência, uma vez que o salário se trata de um valor fixo mensal, e justamente para evitar uma inserção manual, podemos adicionar uma "rotina" para o acréscimo do valor

@@ -1,0 +1,1 @@
+A ideia da Calculadora para gastos é justamente fornecer ao usuário uma forma de calcular os gastos a partir dop valor fixo de quanto a pessoa tem na conta (Desenvolver melhor a ideia com o tempo)

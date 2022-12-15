@@ -1,0 +1,1 @@
+A adição de metas pode ser um conceito importante para ter controle do dinheiro, uma vez que pode auxiliar o usuário a atingir uma meta pessoal.

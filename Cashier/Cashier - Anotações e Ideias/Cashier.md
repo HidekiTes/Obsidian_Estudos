@@ -15,8 +15,8 @@ O aplicativo consiste no conceito de uma ideia para o gerenciamento de dinheiro 
 - [ ] - [[Ideia 6 - Apresentações de Gráficos para Demonstrar visualmente as informações]]
 - [ ] - [[Ideia 7 - Adição de Metas - Viagem, Projeto ou outros]]
 - [ ] - [[Ideia 8 - Adição de Histórico para movimentações com adição de tags, entrada e saída de dinheiro, data, motivo e outros]]
-- [ ] - [[Ideia 9 - Apresentação de Gráficos]]
-- [ ] - [[Ideia 10 - Adicionar função de Dia do Pagamento]]
-- [ ] - [[Ideia 11 - Adição de Cálculo de Rendimento CDI]]
+- [ ] - [[Ideia 9 - Adição de Cálculo de Rendimento CDI]]
+- [ ] - [[Ideia 10 - Reserva de Emergência]]
+
 
 

@@ -11,15 +11,36 @@
             "id": "25e955ccfad3eed1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f187c93990888376",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Identidade Visual/IV - Cores.md",
+                "file": "Identidade Visual/IV - Font-Family.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfffe7dd4455b469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideias/Ideia 10 - Reserva de Emergência.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identidade Visual/IV - Cores.md",
+                "file": "Identidade Visual/IV - Font-Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identidade Visual/IV - Cores.md",
+                "file": "Identidade Visual/IV - Font-Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identidade Visual/IV - Cores.md"
+                "file": "Identidade Visual/IV - Font-Family.md"
               }
             }
           }
@@ -137,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25e955ccfad3eed1",
+  "active": "f187c93990888376",
   "lastOpenFiles": [
     "Ideias/Ideia 1 - Gerenciamento de Dinheiro por Cartão.md",
     "Cashier.md",
-    "Ideia.md",
-    "Identidade Visual/IV - Cores.md",
-    "Identidade Visual/IV - Estrutura e Wireframe.md",
+    "Ideia 10 - Adicionar função de Dia do Pagamento.md",
+    "Ideias/Ideia 10 - Reserva de Emergência.md",
+    "Ideias/Ideia 9 - Adição de Cálculo de Rendimento CDI.md",
+    "Pasted image 20221215101432.png",
     "Identidade Visual/IV - Font-Family.md",
-    "Ideias/Ideia 11 - Adição de Cálculo de Rendimento CDI.md",
-    "Ideias/Ideia 10 - Adicionar função de Dia do Pagamento.md",
-    "Ideias/Ideia 9 - Apresentação de Gráficos.md",
-    "Ideias/Ideia 8 - Adição de Histórico para movimentações com adição de tags, entrada e saída de dinheiro, data, motivo e outros.md"
+    "Pasted image 20221215101259.png",
+    "Pasted image 20221215101244.png",
+    "Pasted image 20221215101231.png"
   ]
 }
