@@ -51,8 +51,12 @@
             "id": "cfffe7dd4455b469",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ideias/Ideia 12 - Custos Fixos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideias/Ideia 12 - Custos Fixos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideias/Ideia 12 - Custos Fixos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ideias/Ideia 12 - Custos Fixos.md"
+              }
             }
           }
         ],
