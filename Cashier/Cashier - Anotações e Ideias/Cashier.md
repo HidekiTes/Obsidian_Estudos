@@ -17,6 +17,7 @@ O aplicativo consiste no conceito de uma ideia para o gerenciamento de dinheiro 
 - [ ] - [[Ideia 8 - Adição de Histórico para movimentações com adição de tags, entrada e saída de dinheiro, data, motivo e outros]]
 - [ ] - [[Ideia 9 - Adição de Cálculo de Rendimento CDI]]
 - [ ] - [[Ideia 10 - Reserva de Emergência]]
-
+- [ ] - [[Ideia 11 - O Cofrinho]]
+- [ ] - [[Ideia 12 - Custos Fixos]]
 
 
